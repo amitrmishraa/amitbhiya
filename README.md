@@ -1,3 +1,4 @@
-# amitbhiya
-this is my 3rd reposuryuj
+# amitbhaiya
+## git github sikh rahe hai!
+this is my 3rd repo
 author- amit
